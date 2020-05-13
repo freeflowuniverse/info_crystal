@@ -1,10 +1,7 @@
-*Get your crystal twin now*
+# Get your crystal twin now
 
 You will soon be able to get your crystal wallet on Apple and Android Store. It is important that you keep all login and password information stored safely offline to ensure you are the sole owner of your login information. 
 
 Apple Store:
-https://apps.apple.com/be/app/3bot-login/id1459845885
 
 Android Store: 
-https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US
-
