@@ -9,9 +9,9 @@ Your crystal twin, users benefit from a suite of experiences available which res
 - autonomous (empower people to be independent)
 - fully secure and private (users are sole owners and managers of their data - not companies)
 - simple to use (less is more)
-- equal to all participants (respect human rights + zero pyramid - fully transparant)
+- equal to all participants (respect human rights + zero pyramid - fully transparent)
 - sustainable (respect our planet)
-- performant (guaranteed uptime wherever you are at any time of the day)
+- performance (guaranteed uptime wherever you are at any time of the day)
 
-Crystal Twin lives on the Crystal Grid - a peer-to-peer Internet that empowers equality, autonomy and sustainability. The Crystal grid is brought by (ThreeFold)[https://wiki.threefold.io/#/].
+Crystal Twin lives on the Crystal Grid - a peer-to-peer Internet that empowers equality, autonomy and sustainability. The Crystal grid is brought by [ThreeFold](https://wiki.threefold.io/#/).
 
