@@ -1,3 +1,3 @@
 # Crystal Wall
 
-Wall on which e.g. development & marketing projects are announced, once enough votes the funding will be made available to realize the idea. The wall gives a good overview of everything which can and should be achieved. A Crystal Wall also shows us clear progress made on a project.
+A wall that represents the current projects going around the Crystal Universe. On the Crystal Wall you can see development & marketing projects for example, and once there are enough votes, the funding will be made available to realize the idea. The wall gives a good overview of everything which can and should be achieved. A Crystal Wall also shows us clear progress made on a project.
