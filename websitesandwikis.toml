@@ -6,16 +6,16 @@ addr = "0.0.0.0"
 
 [[wiki]]
 #unique name for the wiki
-name = "sdk"
-title = "Grid Manual"
+name = "crystaluniverse"
+title = "Crystal Universe"
 #http or git url
-url = "github.com/threefoldfoundation/info_tfgridsdk"
+url = "github.com/crystaluniverse/info_crystal"
 #if empty will be auto created
 path = ""
 #commit automatically when there is new info, only works when ssh used
 autocommit = false
 #branch name, of "" then will be the default or what is found on the FS
-branch = "development"
+branch = "master"
 #switch branch automatically if the name given above and its different on FS
 branchswitch = false
 #path in the repo where the info is, std "src"
