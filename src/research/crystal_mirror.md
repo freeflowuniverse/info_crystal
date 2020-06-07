@@ -29,7 +29,7 @@ The format is $nrpeopleverified:$avgscore
 - e.g. ```10:3``` this would mean 10 people verified but confidence is super lower, basically not verified
 - e.g. ```10:9``` this would mean 10 people verified with good confidence.
 
-## Verfication Score
+## Verification Score
 
 Everyone starts with a verification score of 10. If verified users are disputed by others this will reflect on your verification score if you were the one doing the verification, this will make you less trustworthy as a verifier.
 

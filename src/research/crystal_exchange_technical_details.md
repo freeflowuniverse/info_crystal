@@ -3,15 +3,15 @@
 ## Tag system
 
 - ```category:value```
-- categories are predefined see below, there is a group of volunteers constanly maintaing this sytem to have optimal efficiency, mutliple languages are maintained.
+- categories are predefined see below, there is a group of volunteers constantly maintaining this system to have optimal efficiency, multiple languages are maintained.
 
 ## KIS
 
 - each product/service get's tagged with a one or more categories and predefined values.
 - the definition itself is just text and pictures in markdown format.
-- This can link any markdown embeadable format (movie, sound, html, ...), so has unlimited flexibility to expose something.
+- This can link any markdown embeddable format (movie, sound, html, ...), so has unlimited flexibility to expose something.
 
-> At first sight this may seem complicated, but its actually very easy and extensible way to define a product, price, ... its much easier than having to work with databases, ecommerce systems, ... <BR>
+> At first sight this may seem complicated, but its actually very easy and extensible way to define a product, price, ... its much easier than having to work with databases, e-commerce systems, ... <BR>
 > the content can be stored in a version controlled system (git) to make it reusable. <BR>
 > Its super easy to copy paste & even search/replace.
 
@@ -24,7 +24,7 @@
 - example notation ```id:572h```
 - it always start ```id:```
 - the combination productcode vs brand is unique globally
-- this allows a reseller, transporter or manufactorer to locate the right product/service.
+- this allows a reseller, transporter or manufacturer to locate the right product/service.
 - one specific product/service can have multiple codes.
 
 ### price definition

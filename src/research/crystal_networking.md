@@ -14,7 +14,7 @@ Each person has following default circles
 - friends
 - business
 	- generic business relation, without brand
-	- intentsity specifies how strong the relation ship is, 10 is most
+	- intensity specifies how strong the relation ship is, 10 is most
 - organization:$brandname
 - country:$countrynr
 - region:... (see tags)

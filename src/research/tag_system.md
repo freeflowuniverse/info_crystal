@@ -63,17 +63,17 @@ This is only the start of the tagging system, its a first set of categories.
 - starting values
 	- ... to be completed ...
 	
-### to nurish: food, farming
+### to nourish: food, farming
 
 - ... to be completed ...
 
 ### to be = wellbeing
 
-health, doctors, spirtuality, ...
+health, doctors, spirituality, ...
 
 - ... to be completed ...
 
-### to energise: sport
+### to energize: sport
 
 - ... to be completed ...
 
