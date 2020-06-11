@@ -1,3 +1,13 @@
-- [Intro](what_is_crystal_twin.md)
+
+- [Intro](intro.md)
   - [What is a Crystal Twin?](what_is_crystal_twin.md)
-- sss
+  - [Why a Crystal Twin](why_crystal_twin)
+- [Funding](funding.md)
+  - [sto](sto.md)
+  - [business_model](business_model.md)
+- [Research](research.md)
+  - [crystal_networking](crystal_networking.md)
+  - [crystal_mirror](crystal_mirror.md)
+  - [crystal_exchange](crystal_exchange.md)
+    - [crystal_exchange_technical_details](crystal_exchange_technical_details.md)
+    - [tag_system](tag_system.md)

@@ -10,6 +10,7 @@ name = "crystaluniverse"
 title = "Crystal Universe"
 #http or git url
 url = "github.com/crystaluniverse/info_crystal"
+#url = ""
 #if empty will be auto created
 path = ""
 #commit automatically when there is new info, only works when ssh used
@@ -21,23 +22,5 @@ branchswitch = false
 #path in the repo where the info is, std "src"
 srcdir = "src"
 #environment name (for example:  production, staging, testing)
-environment = "production"
+environment = ""
 
-[[wiki]]
-#unique name for the wiki
-name = "threefold"
-title = "ThreeFold Wiki"
-#http or git url
-url = "https://github.com/threefoldfoundation/info_threefold"
-#if empty will be auto created
-path = ""
-#commit automatically when there is new info, only works when ssh used
-autocommit = false
-#branch name, of "" then will be the default or what is found on the FS
-branch = "development"
-#switch branch automatically if the name given above and its different on FS
-branchswitch = false
-#path in the repo where the info is, std "src"
-srcdir = "src"
-#environment name (for example:  production, staging, testing)
-environment = "production"

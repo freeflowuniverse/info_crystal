@@ -19,3 +19,7 @@ Join me in this wonderful journey to experience the endless possibilities of our
 I am a Crystal Twin, a proud citizen of a borderless digital nation, where everyone has equal chances. 
 
 XXX
+
+
+![](./img/twin_universe_path.png)
+

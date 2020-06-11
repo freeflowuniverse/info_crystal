@@ -1,4 +1,4 @@
-![](img/dive.png)
+![](./img/dive.png)
 
 # crystal twin funding
 

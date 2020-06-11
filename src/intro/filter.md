@@ -1,4 +1,4 @@
-![](img/dance.png)
+![](./img/dance.png)
 
 # awareness filter
 
