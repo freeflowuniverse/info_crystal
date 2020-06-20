@@ -1,6 +1,6 @@
 # info_crystal
 
-Welcome to the Crysal Wiki.
+Welcome to the Crystal Wiki.
 Here is where you'll find all info on anything related to:
 
 - The Crystal Twin
@@ -13,7 +13,9 @@ If you have any input, would like to see additions, or a cool idea, feel free to
 
 If you need any support please visit [our website](https://www.) and use the chat widget in the bottom right of your screen. Our team will answer your questions as soon as possible.
 
-Now go explore our wiki's.
+
+This wiki is hosted on: TBD
+
 
 ### to run locally (to update once new links are available)
 
