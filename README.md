@@ -7,6 +7,7 @@ Here is where you'll find all info on anything related to:
 - The Crystal Experiences
 - The Crystal Universe
 - The Crystal Language
+- The Crystal Company
 - And more
 
 If you have any input, would like to see additions, or a cool idea, feel free to list an issue [here](https://github.com/crystaluniverse/info_crystal/issues), and we'll make sure to try and get it in there.
